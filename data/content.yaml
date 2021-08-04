@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/pedro.jpeg
   Contacts:
     - Icon: fas fa-phone
-      Info: +64 27 3141 684
+      Info: +64 27 31 41 684
     - Icon: fas fa-envelope
       Info: pedro.opazo@usach.cl
     - Icon: fas fa-globe
@@ -15,11 +15,11 @@ BasicInfo:
 Profile: I am an electrical engineering professional with a degree in Electrical Power Systems, who is looking for job opportunities that will allow me to constantly develop my English language skills. My work experience in different areas has allowed me to develop effective communication skills, as well as excellent interpersonal relationships.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer: Hire Staff
+    Place: Auckland, NZ
     Positions:
-      - Title: Software Engineer
-        Date: Jan 2020 - Present
+      - Title: Electrical Trade Assistand
+        Date: Mar 2021
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
           - Viverra aliquet eget sit amet tellus cras adipiscing
@@ -28,29 +28,23 @@ Experience:
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
         Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
+
+  - Employer: Remarkable Laborer
+    Place: Queenstown, NZ
     Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
+      - Title: Electrical Trade Assistand
+        Date: Dec 2020
         Details:
           - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
           - Nisl tincidunt eget nullam non nisi est
           - Sed viverra tellus in hac.
           - Lorem ipsum dolor sit amet, consectetur adipiscing elit
         Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+  - Employer: National Electricity Coordinator of Chile
+    Place: Santiago, Chile
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Electrical Engineer
+        Date: Aug 2015 - Feb 2020
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
           - Viverra aliquet eget sit amet tellus cras adipiscing
@@ -65,49 +59,46 @@ Education:
     Details: Electrical Power System
 
 Skills:
+  - Family: Personal
+    Items:
+      - Proactive
+      - Fast Learning
+      - Initiative
+      - Problem Solving
+  - Family: Softwares
+    Items:
+      - Excel Advanced
+      - AutoCAD
+      - Digsilent     
   - Family: Programming
     Items:
       - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
       - SQL
-      - C#
-      - Bash
-      - MATLAB
-  - Family: Frameworks
+      - Visual Basic 
+      - CSS
+  - Family: Other
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
-  - Family: Developer Tools
-    Items:
-      - Git
-      - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
+      - Working Holiday Visa
+      - Car
 
 Languages:
   - Name: Spanish
     Level: Native
   - Name: English
-    Level: C2
+    Level: C1
 
 
 Diplomas:
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Industrial Electricity (2018)
+  - Statistical Diploma (2018)
+  - General English (2020)
+  - Industrial Electricity (2018)
+  - Advanced Excel (2016)
 
 Interests:
-  - Bouldering
+  - Climbing
   - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
+  - Hiking
+  - Running
+  - Programation
   - Languages
