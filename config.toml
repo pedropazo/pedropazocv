@@ -1,0 +1,21 @@
+languageCode = "en-us"
+defaultContentLanguage = "es"
+enableRobotsTXT = "true"
+enableEmoji = "true"
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = ""
+relativeURLs = "True"
+title = "Pedro Opazo"
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#ddd"
+colorPrimary = "#e3bfb8"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#f5f5f5"
+colorSecondary = "#aaa"
+pages = 1
