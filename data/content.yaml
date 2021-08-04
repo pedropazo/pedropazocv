@@ -1,18 +1,18 @@
 BasicInfo:
-  FirstName: Inês
-  LastName: Almeida
-  Photo: img/avatar.jpg
+  FirstName: Pedro
+  LastName: Opazo
+  Photo: img/pedro.jpeg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: +64 27 3141 684
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: pedro.opazo@usach.cl
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: pedropazo.com
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Chile
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: I am an electrical engineering professional with a degree in Electrical Power Systems, who is looking for job opportunities that will allow me to constantly develop my English language skills. My work experience in different areas has allowed me to develop effective communication skills, as well as excellent interpersonal relationships.
 
 Experience:
   - Employer: Super Cool Company
@@ -59,10 +59,10 @@ Experience:
         Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: Electrical Engineer
+    Place: University of Santiago
+    Date: 2009 - 2013
+    Details: Electrical Power System
 
 Skills:
   - Family: Programming
@@ -94,14 +94,11 @@ Skills:
       - LaTeX
 
 Languages:
-  - Name: Portuguese
+  - Name: Spanish
     Level: Native
   - Name: English
     Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
+
 
 Diplomas:
   - ISTQB Tester Certification (2019)
